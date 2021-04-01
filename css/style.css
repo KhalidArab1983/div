@@ -1,0 +1,72 @@
+.body {
+    float: left;
+    height: 99vh;
+    width: 99vw; 
+}
+.head {
+    float: left;
+    width: 100%;
+    height: 10%;
+    background-color: gray;
+}
+.center {
+    float: left;
+    width: 100%;
+    height: 80%;
+    background-color: lightskyblue;
+    outline: solid;
+    
+}
+.footer {
+    float: left;
+    width: 100%;
+    height: 10%;
+    background-color: green;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    font-size: 3em;
+    outline: solid;
+}
+.menu {
+    float: left;
+    height: 100%;
+    width: 20%;
+    background-color: brown;
+    outline: solid;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    font-size: 2em;
+}
+.aside {
+    float: left;
+    width: 20%;
+    height: 100%;
+    background-color: rgb(39, 73, 226);
+    
+}
+.inhalt {
+    float: left;
+    width: 80%;
+    height: 100%;
+    background-color: sandybrown;
+    
+}
+p {
+    text-align: center;
+
+}
+.ma {
+    float: left;
+    height: 50%;
+    width: 100%;
+    outline: solid;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    font-size: 4em;
+}
