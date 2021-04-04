@@ -1,6 +1,6 @@
 .body {
     float: left;
-    height: 99vh;
+    height: 100%;
     width: 99vw; 
 }
 .head {
@@ -69,4 +69,11 @@ p {
     justify-content: center;
     text-align: center;
     font-size: 4em;
+}
+img {
+    float: left;
+    height: 40%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
